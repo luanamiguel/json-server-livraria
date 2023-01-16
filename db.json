@@ -1,33 +1,31 @@
+{"LivrosPercyJacksonEOsOlimpianos":[
+
 {
-    "antibióticos":[
-    {"nome":"Amoxicilina","marca":"Prati","mg":500,"quantidade":21,"preço":17.59,"id":1},
-    {"nome":"Cefalexina","marca":"União Química","mg":500,"quantidade":10,"preço":13.79,"id":2},
-    {"nome":"Ciprofloxacino","marca":"Cimed","mg":500,"quantidade":14,"preço":21.89,"id":3},
-    {"nome":"Tetralysal","marca":"Galderma","mg":500,"quantidade":28,"preço":216.79,"id":4}
+"OMarDeMonstros":2,
+"OLadrãoDeRaios":1,
+"AMaldiçãoDoTitã":3,
+"ABatalhaDoLabirinto":4,
+"OÚltimoOlimpiano":5
+}
+],"LivrosJogosVorazes":[
 
-],
+  {
+  "EmChamas":2,
+  "AEsperança":3,
+  "JogosVorazes":1,
+  "ACantigaDosPássarosEDasSerpentesos":4
+ 
+  }
+],"LivrosGameOfThrones":[
 
-    "antiinflamatórios":[
-    {"nome":"Cetoprofeno","marca":"Medley","mg":150,"quantidade":10,"preço":22.79,"id": 1},
-    {"nome":"Ibupril","marca":"Teuto","mg":600,"quantidade":20,"preço":8.99,"id":2},
-    {"nome":"Prednisona","marca":"Legrand","mg":"20","quantidade":10,"preço":8.79,"id":3},
-    {"nome":"Maxsulid","marca":"Gosmed","mg": "400","quantidade":10,"preço":34.39,"id": 4}
-
-],
-
-    "analgésicos":[
-    {"nome":"Cefaliv","marca":"Aché","mg":451,"quantidade":12,"preço":17.09,"id": 1},
-    {"nome":"Transtec","marca":"Grunenthal","mg":30,"quantidade":4,"preço":728.99,"id":2},
-    {"nome":"Bexai","marca":"EMS","mg":35,"quantidade":20,"preço": 112.19,"id":3},
-    {"nome":"Gabapentina","marca":"Germed","mg":300,"quantidade":30,"preço":52.99,"id":4}
-    
-],
-
-    "antialérgicos":[
-    {"nome":"Zina","marca":"Eurofarma","mg":5,"quantidade":10,"preço":46.39,"id":1},
-    {"nome":"Fenergan","marca":"Sanofi Aventis","mg":25,"quantidade":20,"preço": 14.49,"id":2},
-    {"nome":"Rizi","marca":"Cosmed","mg":5,"quantidade":30,"preço":112.49,"id":3},
-    {"nome":"Maleato de Dexclorfeniramina","marca":"Polaramine","mg":6,"quantidade":12,"preço":25.43,"id":4}
-]
-
+  {
+  "AFúriaDosReis":2,
+  "ATormentaDeEspadas":3,
+  "AGuerraDosTronos":1,
+  "OFestimDosCorvos":4,
+  "ADançaDosDragões":5,
+  "OsVentosDoInverno":6
+ 
+  }
+  ]
 }
